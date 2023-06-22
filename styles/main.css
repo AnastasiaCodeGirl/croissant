@@ -7,6 +7,9 @@ body{
 h1{
   text-align: center;
 }
+p{
+  margin: 40px auto;
+}
 a{
   color: white;
   text-decoration: none;
